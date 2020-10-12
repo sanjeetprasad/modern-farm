@@ -1,4 +1,4 @@
-export const creatCorn = () => {
+export const createCorn = () => {
     const corn = [
         {
         type: "Corn",
